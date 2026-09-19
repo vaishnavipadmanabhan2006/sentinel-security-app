@@ -1,0 +1,13 @@
+{
+  "name": "SENTINEL-AI",
+  "description": "AI-powered border surveillance dashboard with real-time detection, risk scoring engine, friend-foe authorization whitelist, Gemini incident reports, and blockchain audit trail.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
